@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">Tecnologias que tenho experiências</h3>
+<h3 align="left">Tecnologias que tenho experiência</h3>
 
 ###
 
