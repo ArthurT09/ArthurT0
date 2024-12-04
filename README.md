@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá 👋, Bem vindo! </h1>
 
-![Snake animation](https://github.com/SLAriosi/snakeSVG/blob/main/snake.svg)
+![Snake animation](https://github.com/ArthurT09/snakeSVG/blob/main/snake.svg)
 
 ###
 
