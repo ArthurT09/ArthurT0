@@ -12,8 +12,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurT09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurT09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-<div align="left">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25yZnkwcTN5bGhmd2RtcjhzdW96NHJsdWsyOXVkd3d1MGtkMDRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25yZnkwcTN5bGhmd2RtcjhzdW96NHJsdWsyOXVkd3d1MGtkMDRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">Tecnologias que tenho experiência</h3>
+<h3 align="left">Tecnologias que tenho experiência</h3> 
 
 ###
 
@@ -64,6 +64,16 @@
 <div align="center">
  <a href="https://br.linkedin.com/in/arthur-t-da-silva-847103284" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/arthur_t.09" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<h5 align="center">Visitantes</h5>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ArthurT09/count.svg?"  />
 </div>
 
 ###
