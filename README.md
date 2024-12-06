@@ -1,11 +1,7 @@
 
-<h1 align="center">Olá 👋, Bem vindo! </h1>
+<h1 align="center">Hello 👋, Welcome! </h1>
 
 ![Snake animation](https://github.com/ArthurT09/snakeSVG/blob/main/snake.svg)
-
-###
-
-<h2 align="left">Estatísticas</h2>
 
 ###
 
@@ -22,7 +18,7 @@
 
 ###
 
-<h3 align="left">Tecnologias que tenho experiência</h3> 
+<h3 align="left">Technologies I have experience</h3> 
 
 ###
 
@@ -57,7 +53,7 @@
 
 ###
 
-<h4 align="center">Redes Sociais</h4>
+<h4 align="center">Social media</h4>
 
 ###
 
@@ -68,7 +64,7 @@
 
 ###
 
-<h5 align="center">Visitantes</h5>
+<h5 align="center">Visitors</h5>
 
 ###
 
